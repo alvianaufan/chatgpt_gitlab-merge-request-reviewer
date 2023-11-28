@@ -9,5 +9,8 @@ This aims to review the code that is in the merge request process in your Gitlab
 - Webserver (Apache or Nginx) -> Optional for proxy pass url
 - Gitlab instance (self host or cloud)
 
+  # API Requirement
+  - ChatGPT 3.5 api
+
 # Tutorial Link
-coming soon at https://blog.alvianaufan.my.id
+coming soon at [https://blog.alvianaufan.my.id](https://blog.alvianaufan.my.id/how-to-set-up-chatgpt-ai-as-a-code-reviewer-on-the-gitlab-server/)https://blog.alvianaufan.my.id/how-to-set-up-chatgpt-ai-as-a-code-reviewer-on-the-gitlab-server/
