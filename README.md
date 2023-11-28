@@ -13,4 +13,4 @@ This aims to review the code that is in the merge request process in your Gitlab
 - ChatGPT 3.5 api
 
 # Tutorial Link
-coming soon at [https://blog.alvianaufan.my.id](https://blog.alvianaufan.my.id/how-to-set-up-chatgpt-ai-as-a-code-reviewer-on-the-gitlab-server/)
+Visit my blog on this link: [https://blog.alvianaufan.my.id](https://blog.alvianaufan.my.id/how-to-set-up-chatgpt-ai-as-a-code-reviewer-on-the-gitlab-server/)
