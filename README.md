@@ -1,5 +1,5 @@
 # chatgpt_gitlab-merge-request-reviewer
-ini bertujuan untuk melakukan review pada code yang sedang dalam proses merge request di project gitlab anda. 
+This aims to review the code that is in the merge request process in your Gitlab project.
 
 # Server Requirement
 - Linux (tested on Ubuntu >20.04 Latest)
