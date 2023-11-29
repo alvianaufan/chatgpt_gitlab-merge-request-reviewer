@@ -1,5 +1,6 @@
 # chatgpt_gitlab-merge-request-reviewer
 This aims to review the code that is in the merge request process in your Gitlab project.
+![How to set up ChatGPT {AI} as a code reviewer on the GitLab Server]([image link](https://blog.alvianaufan.my.id/yIZoLk2RVwzV6TNv/2023/11/chatgpt-openai-command.png))
 
 # Server Requirement
 - Linux (tested on Ubuntu >20.04 Latest)
